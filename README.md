@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/smoharana-1/smoharana-1/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Susree</h1>
 <h3 align="center">A passionate data scientist from India .</h3>
 
